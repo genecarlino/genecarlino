@@ -1,13 +1,13 @@
 
 - 👋 Hi, I’m @genecarlino
 - 👀 I’m interested in all things Computer Science 
-- 🌱 I’m currently learning the Fundamentals of Software Engineering! 
+- 🌱 I’m currently learning about Algorithms!
 - 📫 carlino.eu@northeastern.edu
 
 
 🧰 Skill Set & Interested Field
 
-Java, Python, C
+Java, Python, C, React, Django
 
 🏫 Education Experience
 
