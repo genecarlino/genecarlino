@@ -1,7 +1,7 @@
 
 - 👋 Hi, I’m @genecarlino
 - 👀 I’m interested in all things Computer Science 
-- 🌱 I’m currently learning C++ and Computer Graphics!
+- 🌱 I’m currently learning about Industry 4.0!
 - 📫 carlino.eu@northeastern.edu
 
 
